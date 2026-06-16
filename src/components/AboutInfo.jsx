@@ -1,4 +1,4 @@
-import AboutImg from "../images/Aboutimg.png";
+import AboutImg from "../images/AboutImg.png";
 import { Link } from "react-router-dom";
 
 const AboutInfo = () => {
