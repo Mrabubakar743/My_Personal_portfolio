@@ -6,7 +6,7 @@ const ReadMore = () => {
 
       <Navbar />
 
-      <div className="flex items-center justify-center px-6 py-16">
+      <div className="flex items-center mt-20 justify-center px-6 py-16">
         <div className="max-w-3xl">
 
           <p className="text-gray-300 text-sm md:text-base leading-6 tracking-wide bg-white/5 p-6 md:p-8 rounded-2xl border border-cyan-400/20 shadow-[0_0_30px_rgba(34,211,238,0.1)]">
