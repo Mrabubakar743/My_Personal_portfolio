@@ -5,8 +5,8 @@ const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
 
   return (
-    <nav className="flex items-center justify-between px-12 py-6 fixed top-0 left-0 w-full bg-[#0F172A] z-50">
-      <h1 className="text-2xl md:text-3xl font-black text-white">
+    <nav className="flex items-center justify-between px-12 py-7 md:py-6 fixed top-0 left-0 w-full bg-[#0F172A] z-50">
+      <h1 className="text-xl md:text-3xl font-black text-white">
         Muhammad{" "}
         <span className="text-transparent bg-clip-text bg-linear-to-r from-cyan-400 to-blue-500">
           Abubakar
